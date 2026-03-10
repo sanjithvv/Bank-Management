@@ -1,8 +1,10 @@
 # Conventions for writting commit messages
 https://www.conventionalcommits.org/en/v1.0.0/
 
-# Basics about git:
+# Markdown cheat sheet
+https://www.markdownguide.org/cheat-sheet/
 
+# Basics about git:
 # Config your remote git for globally
 git config --global user.name 'Username'
 git config --global user.email 'Mailid'
